@@ -12,5 +12,9 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
+<<<<<<< HEAD
 rootProject.name = "ada-konveksi"
+=======
+rootProject.name = "Ada Konveksi"
+>>>>>>> 406f93fc97a9aa08464a0b179a177382c417da48
 include ':app'

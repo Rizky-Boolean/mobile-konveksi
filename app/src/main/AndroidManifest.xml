@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
+<<<<<<< HEAD
     package="com.example.ada_konveksi">
+=======
+    package="com.example.adakonveksi">
+>>>>>>> 406f93fc97a9aa08464a0b179a177382c417da48
 
     <application
         android:allowBackup="true"
@@ -8,7 +12,11 @@
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
+<<<<<<< HEAD
         android:theme="@style/Theme.Adakonveksi">
+=======
+        android:theme="@style/Theme.AdaKonveksi">
+>>>>>>> 406f93fc97a9aa08464a0b179a177382c417da48
         <activity
             android:name=".MainActivity"
             android:exported="true">

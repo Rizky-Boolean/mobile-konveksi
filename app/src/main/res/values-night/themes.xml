@@ -1,6 +1,10 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!-- Base application theme. -->
+<<<<<<< HEAD
     <style name="Theme.Adakonveksi" parent="Theme.AppCompat.Light.DarkActionBar">
+=======
+    <style name="Theme.AdaKonveksi" parent="Theme.AppCompat.Light.DarkActionBar">
+>>>>>>> 406f93fc97a9aa08464a0b179a177382c417da48
         <!-- Primary brand color. -->
         <item name="colorPrimary">@color/purple_200</item>
         <item name="colorPrimaryDark">@color/purple_700</item>

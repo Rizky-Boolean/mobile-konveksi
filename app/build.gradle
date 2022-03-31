@@ -6,7 +6,11 @@ android {
     compileSdk 32
 
     defaultConfig {
+<<<<<<< HEAD
         applicationId "com.example.ada_konveksi"
+=======
+        applicationId "com.example.adakonveksi"
+>>>>>>> 406f93fc97a9aa08464a0b179a177382c417da48
         minSdk 21
         targetSdk 32
         versionCode 1
